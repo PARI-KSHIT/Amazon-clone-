@@ -29,7 +29,7 @@ Clone the Repository:
 
 Bash
 
-git clone [Your GitHub Repository URL]
+git clone [https://github.com/PARI-KSHIT/Amazon-clone-.git]
 Navigate to the project directory:
 
 Bash
