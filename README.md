@@ -37,4 +37,5 @@ Bash
 cd amazon-clone
 Open the Index File:
 
-Simply open the index.html file in your preferred web browser. The clone will render instantly as it requires no server or dependencies.
+Simply open the index.html file in your preferred web browser. 
+The clone will render instantly as it requires no server or dependencies.
