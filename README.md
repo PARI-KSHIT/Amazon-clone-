@@ -1,4 +1,5 @@
 🛒 Amazon Clone (Layout Replication)
+
 📝 Description
 This project is a detailed static clone of the Amazon website (e.g., the homepage or a product listing page). It is built exclusively using HTML and CSS.
 
@@ -24,7 +25,7 @@ Responsive Design: The layout adjusts correctly for both desktop and mobile view
 
 Static Content: A purely front-end build focused on design (no JavaScript functionality).
 
-⚙️ How to Run Locally
+⚙️ How to Run Locally.
 Clone the Repository:
 
 Bash
