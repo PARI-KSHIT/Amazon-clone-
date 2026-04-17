@@ -12,7 +12,7 @@ CSS3: Used for all styling, including:
 
 Flexbox and CSS Grid for complex multi-column layouts.
 
-Responsive design principles to ensure the layout adapts to different screen sizes.
+Responsive design principles to ensure the layout adapts to different screen sizes.  
 
 Accurate visual styling (colors, fonts, spacing) to match the original Amazon design.
 
